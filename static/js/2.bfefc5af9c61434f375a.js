@@ -1,0 +1,2 @@
+webpackJsonp([2],{"4QDl":function(n,e){},vu9I:function(n,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var o=t("VU/8")({functional:!0,render:function(){var n=arguments[0];return n("div",{class:"info-container",key:"about"},[n("h2",{class:"info__title m-b--40"},["About this blog"]),n("div",{class:"info__container"},["bener写字的地方。"])])}},null,!1,function(n){t("4QDl")},"data-v-7966920c",null);e.default=o.exports}});
+//# sourceMappingURL=2.bfefc5af9c61434f375a.js.map
