@@ -31,7 +31,7 @@ after_script:
   - git commit -m CI-build
   - git status
 
-  - git push "https://${GIT_USER}:${GIT_TOKEN}@${GIT_REPO}" HEAD:gh-pages
+  - git push --force "https://${GIT_USER}:${GIT_TOKEN}@${GIT_REPO}" HEAD:gh-pages
 
 branches:
   only:
